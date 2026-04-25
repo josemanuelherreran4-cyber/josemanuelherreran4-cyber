@@ -1,6 +1,8 @@
-### Hola 👋
+<center>
 
-## Yo soy Jose Manuel Herrera
+### HOLA, SOY JOSE MANUEL HERRERA
+
+</center>
 <table>
   <tr>
     <td>
