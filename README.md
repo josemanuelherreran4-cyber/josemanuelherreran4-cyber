@@ -1,7 +1,6 @@
 ### Hola 👋
 
 ## Yo soy Jose Manuel Herrera
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <table>
   <tr>
     <td>
@@ -26,6 +25,7 @@
    <td>
      <h2> 🛠 &nbsp;HABILIDADES TECNICAS</h2>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
+     <img src="C:/icons8-power-bi-48Users/hp/Downloads/icons8-power-bi-48/-PowerBI-05122A?style=flat&logo=PowerBI"
      <br>
      <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/>
      <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/>
@@ -44,22 +44,16 @@
    </td>
    <td>
     <div align="center">
-      <h2><b>How to Reach Me</b></h2>
+      <h2><b> Como encontrarme </b></h2>
       <br>
-      <p>Please don't hesitate to contact me 
-        <br>if you need further information or help.
+      <p>Si necesitas contactarme por más información 
       </p>
       <br>
-      <a href="https://www.instagram.com/taabannn/" target="_blank">
-      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
-      <a href="mailto:tabansly78@gmail.com" >
+      <a href="mailto:josemanuelherreran4@gmail.com" >
       <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
-      <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/TabanSoleymani/" >
+      <a href="https://www.linkedin.com/in/jose-herrera-3b31a1213/" >
       <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
